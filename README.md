@@ -38,8 +38,6 @@ Below is the circuit diagram of the tri-operational robotic arm using ECG signal
 
 ## 🚀 Applications
 
-The Tri-Operational Robotic Arm has diverse applications across various domains, thanks to its ability to perform grasping, rotating, and lifting actions using real-time ECG signals. Some notable applications include:
-
 - 🏥 **Healthcare & Assistive Technology**  
   Assists physically disabled or paralyzed individuals by enabling hands-free control of essential tasks.
 
