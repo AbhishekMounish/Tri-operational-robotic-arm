@@ -35,4 +35,4 @@ The arm is controlled using real-time signals and designed for assistive and bio
 ## 🔌 Circuit Diagram
 Below is the circuit diagram of the tri-operational robotic arm using ECG signal processing.
 
-![Circuit Diagram]("C:\Users\BIT\OneDrive\Pictures\circuit diagram.ppm")
+![Circuit Diagram]("C:\Users\BIT\OneDrive\Pictures\Screenshots\circuit.png")
