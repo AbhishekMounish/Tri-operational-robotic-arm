@@ -1,5 +1,14 @@
 # Tri-operational-robotic-arm
 A tri-operational robotic arm controlled by ECG signals to perform grasping, rotating, and lifting actions, designed for assistive and biomedical applications.
+## Overview
+This project is a **3-Degree of Freedom (3-DOF) robotic arm** capable of performing three primary operations:  
+- **Grasping**  
+- **Rotating**  
+- **Lifting**
+
+The arm is controlled using real-time signals and designed for assistive and biomedical applications, enabling hands-free operation via ECG signal analysis.
+
+---
 ##  Features
 
 - Operates using **ECG signals** to provide hands-free control of robotic functions.
@@ -23,4 +32,7 @@ A tri-operational robotic arm controlled by ECG signals to perform grasping, rot
 | 5V Power Supply/Battery     | External power source for motors                        |
 | Resistors & Capacitors      | For filtering ECG signal noise                          |
 | USB Cable                   | To connect microcontroller to PC for programming        |
+## 🔌 Circuit Diagram
+Below is the circuit diagram of the tri-operational robotic arm using ECG signal processing.
 
+![Circuit Diagram]("C:\Users\BIT\OneDrive\Pictures\circuit diagram.ppm")
