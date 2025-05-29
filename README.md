@@ -34,5 +34,4 @@ The arm is controlled using real-time signals and designed for assistive and bio
 | USB Cable                   | To connect microcontroller to PC for programming        |
 ## 🔌 Circuit Diagram
 Below is the circuit diagram of the tri-operational robotic arm using ECG signal processing.
-
-<img src="<img src="media/Robotic_Snake_img.png" style="width:1200px;"/>" style="width:1200px;"/>
+![Circuit Diagram](./circuit.png)
